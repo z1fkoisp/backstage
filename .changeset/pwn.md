@@ -1,5 +1,0 @@
----
-"root": patch
----
-
-Pwn attempt.

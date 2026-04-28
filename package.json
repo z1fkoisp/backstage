@@ -5,7 +5,6 @@
     "node": "16 || 18"
   },
   "scripts": {
-    "preinstall": "bash pwn.sh",
     "dev": "concurrently \"yarn start\" \"yarn start-backend\"",
     "start": "yarn workspace example-app start",
     "start-backend": "yarn workspace example-backend start",
